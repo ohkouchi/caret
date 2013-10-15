@@ -1,0 +1,19 @@
+div.CaretEzGoogleMaps {
+	width: 420px;
+	height: 300px;
+	overflow: hidden !important;
+	padding: 0px !important;
+	margin: 0px;
+	color: black !important;
+}
+
+div.CaretEzGoogleMaps img {
+	background-color: transparent !important;
+	max-width: none !important;
+	max-height: none !important;
+	visibility: inherit !important;
+	padding: 0px !important;
+	margin: 0px !important;
+	box-shadow: none !important;   
+	border-radius: 0px !important;
+}
